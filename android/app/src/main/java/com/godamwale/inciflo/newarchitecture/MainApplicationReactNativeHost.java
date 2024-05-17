@@ -1,4 +1,4 @@
-package com.rnzustandboilerplate.newarchitecture;
+package com.godamwale.inciflo.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.rnzustandboilerplate.BuildConfig;
-import com.rnzustandboilerplate.newarchitecture.components.MainComponentsRegistry;
-import com.rnzustandboilerplate.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.godamwale.inciflo.BuildConfig;
+import com.godamwale.inciflo.newarchitecture.components.MainComponentsRegistry;
+import com.godamwale.inciflo.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

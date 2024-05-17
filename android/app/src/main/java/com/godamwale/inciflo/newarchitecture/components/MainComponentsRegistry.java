@@ -1,4 +1,4 @@
-package com.rnzustandboilerplate.newarchitecture.components;
+package com.godamwale.inciflo.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
